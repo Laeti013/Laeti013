@@ -21,6 +21,10 @@ Plusieurs domaines me correspondent tel que le packaging, le digital, l’éditi
 <h2>Contact</h2>
 Vous pouvez me contacter pour obtenir d'avantages d'informations. 
 
+
+
+
+
 ![cest-moi](https://github.com/Laeti013/Laeti013/assets/153726593/c37fbc23-6e15-4633-96d6-42caf5cd0c91)
 
 
