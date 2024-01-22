@@ -24,7 +24,7 @@ Plusieurs domaines me correspondent tel que le packaging, le digital, l’éditi
 
 
 
-https://github.com/hacf-fr/lovelace-meteofrance-weather-card
+
 
 
 
