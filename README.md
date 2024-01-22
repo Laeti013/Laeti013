@@ -7,7 +7,7 @@ J'ai obtenu mon **master 2** en direction artistique et stratégie de marque à 
 
 Ayant fait un tour du monde plus jeune j'ai pu m'ouvrir aux diverses cultures, découvrir des paysages et des lieux fascinants qui m'ont inspirés pour mes créations. 
 
-Je suis actuellemnt entrain de compléter mon profil via une formation pour apprendre les languages de programmtion. 
+Je suis actuellement entrain de compléter mon profil via une formation pour apprendre les languages de programmtion. 
 
 Plusieurs domaines me correspondent tel que le packaging, le digital, l’édition, le code,la photo, la peinture, la musique, la médecine, la science, la pâtisserie, la psychologie et les voyages. 
 
