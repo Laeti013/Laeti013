@@ -2,7 +2,7 @@
 
 <h2>A propos de moi</h2>
 
-🧁 Je suis actuellement entrain de suivre une formation chez Simplon pour apprendre les languages de programmation. 
+🧁 Je suis actuellement entrain de suivre une formation chez **Simplon** pour apprendre les languages de programmation. 
 
 
 <h2>Mes compétences</h2>
