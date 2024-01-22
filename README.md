@@ -19,7 +19,8 @@ Plusieurs domaines me correspondent tel que le packaging, le digital, l’éditi
 + Javascript
 
 <h2>Contact</h2>
-Vous pouvez me contacter pour obtenir d'avantages d'informations. 
+Vous pouvez me contacter pour obtenir d'avantages d'informations.
+----------
 
 
 
