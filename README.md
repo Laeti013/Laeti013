@@ -23,3 +23,8 @@ Plusieurs domaines me correspondent tel que le packaging, le digital, l’éditi
 ![cest-moi](https://github.com/Laeti013/Laeti013/assets/153726593/c37fbc23-6e15-4633-96d6-42caf5cd0c91)
 
 
+
+https://github.com/hacf-fr/lovelace-meteofrance-weather-card
+
+
+
